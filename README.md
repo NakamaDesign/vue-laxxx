@@ -15,7 +15,7 @@
 
 ## Installation
 ```
-npm install vue-laxx
+npm install vue-laxxx
 ```
 vue-laxx can be used as a module in both CommonJS and ES modular environments.
 
